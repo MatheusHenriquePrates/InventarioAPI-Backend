@@ -6,7 +6,7 @@ O projeto foi desenvolvido com foco em boas práticas de .NET, arquitetura de AP
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **.NET 8:** Versão mais recente e LTS (Long-Term Support) da plataforma.
 * **C# 12:** Linguagem principal do projeto.
@@ -19,7 +19,7 @@ O projeto foi desenvolvido com foco em boas práticas de .NET, arquitetura de AP
 
 ---
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 A API expõe dois conjuntos principais de endpoints:
 
@@ -38,7 +38,7 @@ A API expõe dois conjuntos principais de endpoints:
 
 ---
 
-## 🔧 Como Executar Localmente
+## Como Executar Localmente
 
 **Pré-requisitos:**
 * [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
