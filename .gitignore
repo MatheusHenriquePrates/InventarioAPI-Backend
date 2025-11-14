@@ -1,0 +1,11 @@
+# Pasta de build e de objetos, que são geradas automaticamente
+/bin/
+/obj/
+
+# Configurações do VS Code que são específicas do seu computador
+.vscode/
+
+# O arquivo de configuração de desenvolvimento.
+# ESTE É O ARQUIVO MAIS IMPORTANTE PARA IGNORAR!
+# Ele contém sua chave secreta do JWT.
+appsettings.Development.json
